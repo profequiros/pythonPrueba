@@ -4,4 +4,6 @@ num2= int(input("Digite un valor: "))
 
 resultado= num+num2
 
-print(f"El resultado es {resultado}")
+print(f"La suma de {num} + {num2} es: {resultado}")
+
+print(f"El resultado es: {resultado}")
